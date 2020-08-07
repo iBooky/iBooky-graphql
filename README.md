@@ -1,1 +1,1 @@
-# iBooky-graphql
+# iBooky GraphQL
